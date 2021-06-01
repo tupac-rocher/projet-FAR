@@ -1,0 +1,11 @@
+/fin : Quitter le serveur
+/file : Envoyer un fichier au serveur
+/fetch : Enregistrer un fichier du serveur
+/displayUsers : Afficher la liste des utilisateurs connectés
+/displayFiles : Afficher la liste des fichiers présents sur le serveur.
+/displayRooms : Afficher la liste des salons disponibles
+/createChannel : Créer un salon
+/modifyChannel : Modifier un salon
+/deleteChannel : Supprimer un salon
+/join : Rejoindre un salon
+/man : Lister les commandes disponibles

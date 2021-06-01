@@ -1,0 +1,4 @@
+Gaming,Here we can talk about games
+Anime,Here we can talk about anime
+Cinema,Here we can talk about cinema
+Soccer,Here we can talk about football

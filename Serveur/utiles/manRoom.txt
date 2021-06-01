@@ -1,0 +1,6 @@
+/file : Envoyer un fichier au salon
+/fetch : Enregistrer un fichier du salon
+/displayUsers : Afficher la liste des utilisateurs connectés
+/displayFiles : Afficher la liste des fichiers présents sur le salon.
+/leave : Quitter un salon
+/man : Lister les commandes disponibles
